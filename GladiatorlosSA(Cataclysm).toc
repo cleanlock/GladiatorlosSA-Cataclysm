@@ -1,0 +1,13 @@
+﻿## Interface: 40400
+## Title: GladiatorlosSA(Cataclysm)
+## Notes: PVP Spell Sound Alert
+## Author: Updated for Cataclysm by Porkloaf
+## SavedVariables: GladiatorlosSADB
+## Version: Cata-1.1
+
+embeds.xml
+Locales\locales.xml
+
+GladiatorlosSA(Cataclysm).lua
+spelllist.lua
+options.lua
